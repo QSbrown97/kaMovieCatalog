@@ -1,4 +1,4 @@
-// Your Code Here!
+
  
 const container = document.getElementById('movie-container')
 const searchButton = document.getElementById("search-button")
